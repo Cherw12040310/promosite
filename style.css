@@ -132,9 +132,10 @@ body{
 	margin-right: 0;
 }
 .emjoiL{
+
 	display: flex;
   align-items: center;
-	margin-left: 40px;
+	margin-left: 150px;
 	font-size: 40px;
 	font-family: monospace;
 }
